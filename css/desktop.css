@@ -1,0 +1,17 @@
+.main-tables-container {
+    width: 550px;
+}
+
+.bitcoin-img-container {
+    background: url(../assets/Img/girl_orange3x.png) center / cover no-repeat;
+}
+
+.product-cards--container {
+    margin: 0 auto;
+    gap: 5rem;
+    width: 1080px;
+}
+
+.plans-container--slider {
+    width: 60%;
+}

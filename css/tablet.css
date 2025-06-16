@@ -1,0 +1,168 @@
+header {
+    height: 385px;
+}
+
+header img {
+    width: 295px;
+    height: 55px;
+    margin-top: 85px;
+}
+
+.header--title-container h1 {
+    font-size: 2.8rem;
+}
+
+.header--title-container p {
+    font-size: 1.6rem;
+}
+
+.header--title-container .header--button {
+    top: 360px;
+    width: 260px;
+    height: 50px;
+    font-size: 1.6rem;
+}
+
+.main-exchange-container {
+    padding: 45px 0 30px;
+    gap: 35px;
+}
+
+.main-tables-container {
+    width: 70%;
+}
+
+.main-currency-table {
+    width: 35%;
+}
+
+.main-currency-table .currency-table--date p {
+    font-size: 1.3rem;
+}
+
+.main-exchange-container--title h2 {
+    font-size: 2.8rem;
+}
+
+.main-exchange-container--title p {
+    font-size: 1.6rem;
+}
+
+.product-cards--container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.product-detail--card {
+    margin: 0;
+    gap: 2.2rem;
+    height: 175px;
+}
+
+.product-detail--card .card--icon {
+    width: 30px;
+    height: 30px;
+}
+
+.product-detail--title h2 {
+    font-size: 2.8rem;
+    margin-bottom: 30px;
+}
+
+.product-detail--title p {
+    font-size: 1.6rem;
+    margin-bottom: 30px;
+}
+
+.product-detail--card .product-cards-title {
+    font-size: 2rem;
+}
+
+.product-detail--card .product-cards-body {
+    font-size: 1.6rem;
+}
+
+.main-product-detail {
+    padding: 20px 10px 75px;
+}
+
+.bitcoin-img-container h2 {
+    font-size: 4.4rem;
+}
+
+.bitcoin-img-container {
+    background: url(../assets/Img/girl_orange2x.png) center/cover no-repeat;
+    height: 60vh;
+}
+
+.main-plans-container {
+    padding: 50px 0 70px;
+}
+
+.plans--title {
+    margin: 0 auto 60px;
+}
+
+.plans-container--slider {
+    width: 95%;
+    justify-content: center;
+    gap: 3rem;
+    height: 330px;
+}
+
+.plans-container--card {
+    margin: 50px 0;
+    height: 270px;
+}
+
+.card--recomended {
+    width: 104px;
+    font-size: 1.3rem;
+}
+
+.plans--title h2 {
+    font-size: 2.6rem;
+}
+
+.plan-card--price {
+    padding: 20px 0 10px;
+    font-size: 5.4rem;
+}
+
+.plan-card--ca {
+    font-size: 1.6rem;
+}
+
+.plans--title p {
+    font-size: 1.6rem;
+}
+
+.plan-card--title {
+    padding: 30px 0 0;
+    font-size: 1.6rem;
+}
+
+.plan-card--saving {
+    font-size: 1.4rem;
+}
+
+footer {
+    height: 102px;
+    justify-content: space-around;
+}
+
+.footer-left ul {
+    flex-direction: row;
+    gap: 5rem;
+}
+
+.footer-left a {
+    font-size: 1.6rem;
+}
+
+.footer-right img {
+    width: 90%;
+}
